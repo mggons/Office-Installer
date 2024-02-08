@@ -1,0 +1,13 @@
+<Configuration>
+  <Add OfficeClientEdition="32" Channel="Current">
+    <Product ID="Standard2019Retail">
+      <Language ID="es-ES" />
+     </Product>
+  </Add>
+<Display Level="Full" AcceptEULA="TRUE" />
+<Property Name="SharedComputerLicensing" Value="1" />
+<Property Name="DeviceBasedLicensing" Value="0" />
+<Property Name="SCLCacheOverride" Value="0" />
+<Property Name="AUTOACTIVATE" Value="1" />
+<Updates Enabled="TRUE" />
+</Configuration>

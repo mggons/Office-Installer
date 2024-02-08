@@ -1,0 +1,10 @@
+<Configuration>
+  <Add OfficeClientEdition="64">
+    <Product ID="MondoRetail">
+      <Language ID="es-ES" />
+    </Product>
+  </Add>
+  <Display Level="Full" AcceptEULA="TRUE" />
+  <Updates Enabled="TRUE" />
+  <Property Name="AUTOACTIVATE" Value="1" />
+</Configuration>

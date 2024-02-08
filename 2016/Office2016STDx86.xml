@@ -1,0 +1,16 @@
+<Configuration>
+  <Add OfficeClientEdition="32" Channel="Current">
+    <Product ID="StandardRetail" >
+      <Language ID="es-ES" />
+	  <ExcludeApp ID="Groove" />
+      <ExcludeApp ID="Teams" />
+      <ExcludeApp ID="Lync" />
+     </Product>
+  </Add>
+<Display Level="Full" AcceptEULA="TRUE" />
+<Property Name="SharedComputerLicensing" Value="1" />
+<Property Name="DeviceBasedLicensing" Value="0" />
+<Property Name="SCLCacheOverride" Value="0" />
+<Property Name="AUTOACTIVATE" Value="1" />
+<Updates Enabled="TRUE" />
+</Configuration>

@@ -1,0 +1,16 @@
+<Configuration>
+  <Add OfficeClientEdition="32">
+    <Product ID="StandardRetail">
+      <Language ID="es-ES" />
+	  <ExcludeApp ID="Groove" />
+      <ExcludeApp ID="Teams" />
+      <ExcludeApp ID="Lync" />
+	  <ExcludeApp ID="Groove" />
+      <ExcludeApp ID="Visio" />
+      <ExcludeApp ID="Project" />
+    </Product>
+  </Add>
+  <Display Level="Full" AcceptEULA="TRUE" />
+  <Updates Enabled="TRUE" />
+  <Property Name="AUTOACTIVATE" Value="1" />
+</Configuration>

@@ -1,0 +1,22 @@
+<Configuration>
+  <Add OfficeClientEdition="32">
+    <Product ID="MondoRetail">
+      <Language ID="es-ES" />
+    </Product>
+  </Add>
+  <Display Level="Full" AcceptEULA="TRUE" />
+  <Updates Enabled="TRUE" />
+  <Property Name="AUTOACTIVATE" Value="1" />
+</Configuration>
+<!--  OInstallSetting Branch=1  -->
+<!--  OInstallSetting Office=0  -->
+<!--  OInstallSetting Arch=0  -->
+<!--  OInstallSetting Redact=0  -->
+<!--  OInstallSetting Product=1  -->
+<!--  OInstallSetting UseODT=1  -->
+<!--  OInstallSetting UseDarkTheme=1  -->
+<!--  OInstallSetting UseDarkThemeBackColor=37,37,37  -->
+<!--  OInstallSetting RunAsTI=0  -->
+<!--  OInstallSetting OnlineKMS=1  -->
+<!--  OInstallSetting PATH=  -->
+<!--  OInstallSetting Lang en-US  -->

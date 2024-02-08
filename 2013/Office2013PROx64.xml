@@ -1,8 +1,8 @@
 <Configuration>
   <Add OfficeClientEdition="64">
-    <Product ID="MondoRetail">
+    <Product ID="ProplusRetail">
       <Language ID="es-ES" />
-    </Product>
+	  </Product>
   </Add>
   <Display Level="Full" AcceptEULA="TRUE" />
   <Updates Enabled="TRUE" />
